@@ -1,29 +1,9 @@
-# README #
+# Time series Visualizer using Pandas, Matplotlib, and Seaborn #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+*  Technology: Python ,Pandas, Matplotlib, and Seaborn.
+* Version:1:0
 
-### What is this repository for? ###
+* Visualizer help to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+   
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
